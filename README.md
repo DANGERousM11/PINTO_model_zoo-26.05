@@ -124,24 +124,7 @@ I have been working on quantization of various models as a hobby, but I have ski
 |045|SSD_Mobilenetv2_oid_v4|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/045_ssd_mobilenet_v2_oid_v4)|⚫|⚫|⚫|⚫||⚫|||⚫||||
 |046|Yolov4-tiny|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/046_yolov4-tiny)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫||
 |047|SpineNetMB_49|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/047_SpineNetMB_49)|⚫|⚫|⚫|||⚫|||||⚫|Mobile RetinaNet|
-|051|East_Text_Detection|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/051_East_Text_Detection)|⚫|⚫|⚫|⚫||⚫|⚫||⚫|⚫|⚫||
-|054|KNIFT|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/054_KNIFT)|⚫|⚫|⚫|||⚫|⚫||||⚫|MediaPipe|
-|056|TextBoxes++ with dense blocks, separable convolution and Focal Loss|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/056_TextBoxes%2B%2B)|⚫|⚫|⚫|||⚫|⚫|⚫||⚫|⚫||
-|058|keras-retinanet|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/058_keras-retinanet)|⚫|⚫||||⚫|⚫||⚫|⚫|⚫|resnet50_coco_best_v2.1.0.h5,320x320|
-|059|Yolov5|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/059_yolov5)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫||
-|072|NanoDet|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/072_NanoDet)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫|[issue #274](https://github.com/google-coral/edgetpu/issues/274)|
-|073|RetinaNet|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/073_RetinaNet)|⚫|⚫|⚫|||⚫|⚫|⚫|⚫|⚫|⚫||
-|074|Yolact|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/074_Yolact)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫||
-|085|Yolact_Edge|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/085_Yolact_Edge)|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|21/10/05 new MobileNetV2(550x550)|
-|089|DETR|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/089_DETR)|⚫|⚫|⚫|||⚫|||||⚫|256x256|
-|103|EfficientDet_lite|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/103_EfficientDet_lite)|⚫|⚫|⚫|⚫||⚫|⚫||⚫|⚫|⚫|lite0,lite1,lite2,lite3,lite4|
-|116|DroNet|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/116_DroNet)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫|DroNet,DroNetV3|
-|123|YOLOR|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/123_YOLOR)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫||⚫|ssss_s2d/320x320,640x640,960x960,1280x1280|
-|132|YOLOX|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/132_YOLOX)|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫||⚫|nano,tiny,s,m,l,x/256x320,320x320,416x416,480x640,544x960,736x1280,1088x1920|
-|143|RAPiD|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/143_RAPiD)|⚫|⚫|⚫|||⚫|⚫||||⚫|Fisheye, cepdof/habbof/mw_r, 608x608/1024x1024|
-|145|text_detection_db|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/145_text_detection_db)|⚫|⚫|⚫|||⚫|⚫|⚫|⚫|⚫|⚫|480x640|
-|151|object_detection_mobile_object_localizer|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/151_object_detection_mobile_object_localizer)|⚫|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫|192x192|
-|169|spaghettinet_edgetpu|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/169_spaghettinet_edgetpu)|⚫|⚫|⚫|⚫|⚫|⚫|⚫||⚫|⚫|⚫|320x320,S/M/L|
+
 |174|PP-PicoDet|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/174_PP-PicoDet)|⚫|⚫|⚫||⚫|⚫|⚫|⚫|⚫|⚫|⚫|S/M/L,320x320/416x416/640x640|
 |178|vehicle-detection-0200|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/178_vehicle-detection-0200)|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|256x256,PriorBoxClustered->ndarray(0.npy)|
 |179|person-detection-0202|[■■■](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/179_person-detection-0202)|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|⚫|512x512,PriorBoxClustered->ndarray(0.npy)|
